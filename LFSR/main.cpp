@@ -1,3 +1,11 @@
+//
+//						Przyk³adowy opis obs³ugi programu
+//	Wprowadzanie wspó³czynników: cyfra -> enter -> cyfra... 
+//	Wielomian o 3 wspó³czynnikach: 3 1 0: x^3 + x + 1
+//	Wprowadzanie stanu poczatkowego: 1 -> enter -> 0 -> enter -> 0
+//	Stan pocz¹tkowy: 1 0 0
+//
+
 #include <iostream>
 #include <algorithm>
 #include <cmath>
